@@ -1,4 +1,4 @@
-# splash_screen
+# Create a Splash Screen with BLoC in Flutter
 
 A new Flutter project.
 
