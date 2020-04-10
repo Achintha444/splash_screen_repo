@@ -1,4 +1,4 @@
-# Create a Splash Screen with BLoC in Flutter 👩‍💻👨‍💻.
+# Create a Splash Screen with BLoC in Flutter 👩‍💻👨‍💻
 
 This is a demo on how to create a splash screen using BLoC package in Flutter Framework.
 
