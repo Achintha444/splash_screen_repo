@@ -1,16 +1,9 @@
-# Create a Splash Screen with BLoC in Flutter
+# Create a Splash Screen with BLoC in Flutter 👩‍💻👨‍💻.
 
-A new Flutter project.
+This is a demo on how to create a splash screen using BLoC package in Flutter Framework.
 
-## Getting Started
+## Getting Started 🐱‍🚀
 
-This project is a starting point for a Flutter application.
+You can view the medium article related to this repo [here](https://flutter.dev/docs/get-started/codelab).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you found the article or this repo useful feel free to share the article and the repo among your freinds and colleagues ✌
